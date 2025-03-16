@@ -1,0 +1,16 @@
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\bin\BlTest.exe
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\bin\BlTest.deps.json
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\bin\BlTest.runtimeconfig.json
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\bin\BlTest.dll
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\bin\BlTest.pdb
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\BlTest\obj\Debug\BlTest.csproj.CopyComplete
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\BlTest\obj\Debug\BlTest.dll
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\BlTest\obj\Debug\refint\BlTest.dll
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\BlTest\obj\Debug\BlTest.pdb
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\BlTest\obj\Debug\ref\BlTest.dll

@@ -1,0 +1,36 @@
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\bin\Tools.deps.json
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\bin\Tools.dll
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\bin\Tools.pdb
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\Tools\obj\Debug\Tools.AssemblyInfo.cs
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\Tools\obj\Debug\Tools.dll
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\Tools\obj\Debug\refint\Tools.dll
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\Tools\obj\Debug\Tools.pdb
+C:\Users\user1\Desktop\C#\DotNet2025_3762_5535\Tools\obj\Debug\ref\Tools.dll
+Z:\B\פרינץ שני\C#\שיעור 9\DotNet2025_3762_5535\bin\Tools.deps.json
+Z:\B\פרינץ שני\C#\שיעור 9\DotNet2025_3762_5535\bin\Tools.dll
+Z:\B\פרינץ שני\C#\שיעור 9\DotNet2025_3762_5535\bin\Tools.pdb
+Z:\B\פרינץ שני\C#\שיעור 9\DotNet2025_3762_5535\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+Z:\B\פרינץ שני\C#\שיעור 9\DotNet2025_3762_5535\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\פרינץ שני\C#\שיעור 9\DotNet2025_3762_5535\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+Z:\B\פרינץ שני\C#\שיעור 9\DotNet2025_3762_5535\Tools\obj\Debug\Tools.AssemblyInfo.cs
+Z:\B\פרינץ שני\C#\שיעור 9\DotNet2025_3762_5535\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+Z:\B\פרינץ שני\C#\שיעור 9\DotNet2025_3762_5535\Tools\obj\Debug\Tools.dll
+Z:\B\פרינץ שני\C#\שיעור 9\DotNet2025_3762_5535\Tools\obj\Debug\refint\Tools.dll
+Z:\B\פרינץ שני\C#\שיעור 9\DotNet2025_3762_5535\Tools\obj\Debug\Tools.pdb
+Z:\B\פרינץ שני\C#\שיעור 9\DotNet2025_3762_5535\Tools\obj\Debug\ref\Tools.dll
+D:\C#\שיעורי בית\DotNet2025_3762_5535\bin\Tools.deps.json
+D:\C#\שיעורי בית\DotNet2025_3762_5535\bin\Tools.dll
+D:\C#\שיעורי בית\DotNet2025_3762_5535\bin\Tools.pdb
+D:\C#\שיעורי בית\DotNet2025_3762_5535\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+D:\C#\שיעורי בית\DotNet2025_3762_5535\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\שיעורי בית\DotNet2025_3762_5535\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+D:\C#\שיעורי בית\DotNet2025_3762_5535\Tools\obj\Debug\Tools.AssemblyInfo.cs
+D:\C#\שיעורי בית\DotNet2025_3762_5535\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\C#\שיעורי בית\DotNet2025_3762_5535\Tools\obj\Debug\Tools.dll
+D:\C#\שיעורי בית\DotNet2025_3762_5535\Tools\obj\Debug\refint\Tools.dll
+D:\C#\שיעורי בית\DotNet2025_3762_5535\Tools\obj\Debug\Tools.pdb
+D:\C#\שיעורי בית\DotNet2025_3762_5535\Tools\obj\Debug\ref\Tools.dll
